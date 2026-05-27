@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Workforce Scheduling Shift Planner
+
+- Shift Planning
+- Coverage Gaps
+- Labor Capacity Forecast
+
+## Focused enhancement: Workforce Scheduling Shift Planner
+
+Source evidence: AIWorkforceSchedulingShiftPlanner.

@@ -8,4 +8,20 @@ export type SourceDashboardAction = {
   count: number;
 };
 
-export const sourceDashboardActions: SourceDashboardAction[] = [];
+export const sourceDashboardActions: SourceDashboardAction[] = [
+  {
+    "id": "workforce-scheduling-shift-planner",
+    "label": "Workforce Scheduling Shift Planner",
+    "description": "Open Workforce Scheduling Shift Planner workflows elevated from AIWorkforceSchedulingShiftPlanner.",
+    "href": "/shift-planning",
+    "sourceProjects": [
+      "AIWorkforceSchedulingShiftPlanner"
+    ],
+    "examples": [
+      "Shift Planning",
+      "Coverage Gaps",
+      "Labor Capacity Forecast"
+    ],
+    "count": 1
+  }
+];

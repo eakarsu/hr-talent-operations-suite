@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/labor-capacity-forecast`
+- `/coverage-gaps`
+- `/shift-planning`
 - `/employees`
 - `/onboarding`
 - `/benefits`

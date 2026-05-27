@@ -1,8 +1,8 @@
 # Hr Talent Operations Suite Source Data Tables
 
-Mapped source projects: 5
+Mapped source projects: 6
 
-Detected source tables: 111
+Detected source tables: 135
 
 | Source Project | Table | Framework | Columns | Source File |
 | --- | --- | --- | ---: | --- |
@@ -117,3 +117,27 @@ Detected source tables: 111
 | AITrademarkBrandProtectionMonitor | trademark_searches | SQL | 7 | backend/db/schema.sql |
 | AITrademarkBrandProtectionMonitor | trademarks | SQL | 11 | backend/db/schema.sql |
 | AITrademarkBrandProtectionMonitor | users | SQL | 6 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | ai_recommendations | SQL | 8 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | announcements | SQL | 9 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | audit_log | SQL | 7 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | availability | SQL | 7 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | benefits_enrollments | SQL | 9 | backend/routes/extensions.js |
+| AIWorkforceSchedulingShiftPlanner | breaks | SQL | 7 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | compliance_records | SQL | 8 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | demand_forecasts | SQL | 8 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | departments | SQL | 7 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | employees | SQL | 12 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | gap_features | SQL | 5 | backend/routes/batch09GapAi.js |
+| AIWorkforceSchedulingShiftPlanner | gap_features | SQL | 5 | backend/routes/batch09GapNonai.js |
+| AIWorkforceSchedulingShiftPlanner | locations | SQL | 9 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | notifications | SQL | 7 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | overtime_records | SQL | 8 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | payroll | SQL | 11 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | performance_reviews | SQL | 10 | backend/routes/extensions.js |
+| AIWorkforceSchedulingShiftPlanner | shift_swap_requests | SQL | 8 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | shift_templates | SQL | 11 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | shifts | SQL | 10 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | time_clock | SQL | 9 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | time_off_requests | SQL | 8 | backend/db/schema.sql |
+| AIWorkforceSchedulingShiftPlanner | training_records | SQL | 9 | backend/routes/extensions.js |
+| AIWorkforceSchedulingShiftPlanner | users | SQL | 6 | backend/db/schema.sql |

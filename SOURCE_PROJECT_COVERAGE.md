@@ -7,3 +7,4 @@
 | AICarWashChainOptimizer | 20 | 8 | 1 | 1 | ai.js<br>aiNew.js<br>alerts.js<br>auth.js<br>chemicalDosing.js |
 | AiRecruiterScreener | 8 | 0 | 0 | 11 | analytics.js<br>assessments.js<br>auth.js<br>candidates.js<br>communications.js |
 | AITrademarkBrandProtectionMonitor | 17 | 8 | 1 | 3 | ai.js<br>alerts.js<br>audit.js<br>auth.js<br>ceasedesist.js |
+| AIWorkforceSchedulingShiftPlanner | 0 | 0 | 0 | 1 | Shift Planning<br>Coverage Gaps<br>Labor Capacity Forecast |
